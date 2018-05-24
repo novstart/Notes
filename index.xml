@@ -2,80 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes of novstart</title>
-    <link>/</link>
+    <link>https://novstart.netlify.com/</link>
     <description>Recent content on Notes of novstart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://novstart.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Useful Links</title>
-      <link>/links/</link>
+      <link>https://novstart.netlify.com/links/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/links/</guid>
+      <guid>https://novstart.netlify.com/links/</guid>
       <description>Useful links to everything care
 Study materialgit tutorialblogdown</description>
     </item>
     
     <item>
       <title>test push</title>
-      <link>/2018/05/24/test-push/</link>
+      <link>https://novstart.netlify.com/2018/05/24/test-push/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/24/test-push/</guid>
+      <guid>https://novstart.netlify.com/2018/05/24/test-push/</guid>
       <description>push to git
 git push origin master</description>
     </item>
     
     <item>
-      <title>test2</title>
-      <link>/note/test2/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/note/test2/</guid>
-      <description>This is a new test</description>
-    </item>
-    
-    <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://novstart.netlify.com/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://novstart.netlify.com/about/</guid>
       <description>Notes of everything.</description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>/contact/</link>
+      <link>https://novstart.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://novstart.netlify.com/contact/</guid>
       <description>Contact to novstart@mail.163.com</description>
-    </item>
-    
-    <item>
-      <title>test Notes</title>
-      <link>/note/testnote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/note/testnote/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min.</description>
-    </item>
-    
-    <item>
-      <title>testnote2</title>
-      <link>/note/secnote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/note/secnote/</guid>
-      <description>the second note</description>
     </item>
     
   </channel>
